@@ -8,3 +8,5 @@ still struggling oof
 ## About Me
 Hi, I’m <laura>.
 I’m learning how to use GitHub Issues.
+#Fun-fact
+hello, world!
